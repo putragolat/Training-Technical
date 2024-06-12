@@ -1,6 +1,6 @@
 { 
 "name" : "Sanbe - Training",
-"description" : "Latihan Teknik Odoo",
+"description" : "Latihan Teknik Odoo 1",
 "author" : "Sanbe, PT. Arkana Solusi Digital",
 "version" : "17.0.1.0.0",
 "category" : "Others",
